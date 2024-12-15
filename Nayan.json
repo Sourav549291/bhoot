@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "sourav",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -12,14 +12,14 @@
   "BOTNAME": "nayan-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
+    "61566825373861",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100063621745210",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100063621745210"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
